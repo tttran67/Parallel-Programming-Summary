@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651754300 source:d:\my projects\gcc test proj\lesson3\special\serial_x86\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<bitset>
+	<windows.h>
+
